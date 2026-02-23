@@ -1,0 +1,9 @@
+.hero-logo {
+    opacity: 0;
+    background-image: url("sixth-ivy-logo-white-drop.svg");
+    background-position: 50% 0;
+    background-size: cover;
+    height: 100%;
+    position: absolute;
+    inset: 0%;
+}
