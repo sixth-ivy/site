@@ -2348,7 +2348,7 @@ textarea.w-input, textarea.w-select {
 .div-block-3 {
   flex-flow: column;
   display: flex;
-  width:200px;
+  /* width:200px; */
 }
 
 .footer-logo-copy {
@@ -2664,9 +2664,9 @@ textarea.w-input, textarea.w-select {
 
 
   .hero-text {
-    justify-content: flex-start;
+    justify-content: flex-end;
     align-items: center;
-    margin-top: 3rem;
+    margin-bottom: 4.5rem;
   }
 }
 
