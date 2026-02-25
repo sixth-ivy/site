@@ -2661,12 +2661,14 @@ textarea.w-input, textarea.w-select {
     line-height: .3rem;
   }
 
-
+  .hero-fg-01, .hero-fg-02, .hero-fg-03, .hero-fg-04, .hero-fg-05 {
+    display: none;
+  }
 
   .hero-text {
     justify-content: flex-end;
     align-items: center;
-    margin-bottom: 4.5rem;
+    margin-bottom: 5.5rem;
   }
 }
 
